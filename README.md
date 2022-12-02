@@ -13,7 +13,7 @@
 
 - 日本経済新聞社は本ノートブックを使用して発生したいかなる損失にも一切の責任を負いません。
 
-## 実行方法
+## 💨 実行方法 / How to run the notebook
 
 [こちらのGoogle Colaboratory のリンク](https://colab.research.google.com/drive/1mWVx2L09TXPvIarEstH1bY0bChSny1FV)にアクセスしてください。実行には Google のアカウントが必要です。
 
