@@ -15,7 +15,7 @@
 
 ## 実行方法
 
-[こちらのGoogle Colaboratory のリンク](https://colab.research.google.com/drive/1mWVx2L09TXPvIarEstH1bY0bChSny1FV#scrollTo=6i-GGOrDrdco)にアクセスしてください。実行には Google のアカウントが必要です。
+[こちらのGoogle Colaboratory のリンク](https://colab.research.google.com/drive/1mWVx2L09TXPvIarEstH1bY0bChSny1FV)にアクセスしてください。実行には Google のアカウントが必要です。
 
 ## 🔍 出典 / Reference
 
