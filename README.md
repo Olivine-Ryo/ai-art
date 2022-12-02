@@ -5,7 +5,7 @@
 
 ## 📖 ノートブックを実行する前に読んでください / README
 
-- ノートブックの実行は Google Colaboratory 上で行うことができます。ローカル環境では基本的に動作しません。
+- ノートブックの実行は Google Colaboratory 上で行うことができます。ローカル環境での実行は想定していません。
 
 - 画像生成は[The CreativeML OpenRAIL M license](https://github.com/CompVis/stable-diffusion/blob/main/LICENSE)のライセンスに従う必要があります。
 
